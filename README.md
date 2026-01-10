@@ -1,57 +1,63 @@
+<div align="center">
+
 # 👋 Hi, I'm Hasanul Banna
 
-**Senior Frontend Software Engineer**
-**5+ years of professional experience**
-React • Next.js • Angular
+### Senior Frontend Software Engineer | 5+ Years Experience
+
+🚀 React • Next.js • Angular • TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Frontend+Architecture+Expert;Performance+Optimization+Specialist" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a results-driven Software Engineer with 5+ years of experience building **scalable, high-performance web applications**. I come from a strong **Pure Mathematics background**, which helps me approach engineering problems with deep analytical thinking and structured problem-solving.
+Results-driven Software Engineer with **5+ years of professional experience** building **scalable, high-performance SaaS & enterprise applications**.
 
-I specialize in:
+Strong foundation in **Pure Mathematics** — bringing analytical thinking and structured problem-solving into real-world systems.
+
+**What I do best:**
 
 * Frontend architecture & design systems
 * Performance optimization
-* Clean, maintainable, scalable code
-* SaaS & enterprise-level applications
+* Writing clean, maintainable, scalable code
+* Building large-scale SaaS platforms
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 
-* React.js
-* Next.js
-* Angular
-* TypeScript
-* Tailwind CSS
-* ShadCN UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-**Backend**
+### Backend
 
-* Node.js
-* Express.js
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-**Tools & Platforms**
+### Tools
 
-* Git & GitHub
-* Docker
-* Firebase
-* Vercel
-* Figma
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Career Highlights
 
-* ✅ 5+ years in professional software development
-* ✅ Worked on a CRM platform with **50,000+ active users**
-* ✅ Reduced build time by **50%** through performance optimization
-* ✅ Built SaaS products from scratch
-* ✅ Experience working with enterprise clients
+✔ 5+ years professional development experience
+✔ Built & optimized CRM with **50,000+ active users**
+✔ Reduced build time by **50%** through optimization
+✔ Developed SaaS products from scratch
+✔ Enterprise-level project experience
 
 ---
 
@@ -59,37 +65,42 @@ I specialize in:
 
 ### 🔹 Swiss Leaders CRM
 
-* Large-scale CRM platform (50K+ users)
-* Event campaigns, subscriptions, legal insurance modules
-* Optimized performance & codebase
+* 50K+ active users
+* Event campaigns & subscription system
+* Performance & architecture optimization
 
 ### 🔹 ERP System (Angular)
 
-* Enterprise-level ERP solution
+* Enterprise ERP platform
 * Finance & inventory modules
-* Scalable architecture
+* Scalable system design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-*(Add GitHub widgets here)*
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
+
+</div>
 
 ---
 
 ## 🎯 Currently Learning
 
-* Advanced system design
+* System design & architecture
 * Backend scalability
-* Cloud architecture
+* Cloud engineering
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* LinkedIn: *your-link-here*
-* Portfolio: *your-site-here*
-* Email: *your-email-here*
+* 🔗 LinkedIn: your-link-here
+* 🌍 Portfolio: your-site-here
+* 📧 Email: your-email-here
 
 ---
 

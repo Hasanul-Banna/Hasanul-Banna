@@ -195,7 +195,7 @@ Shahjalal University of Science & Technology (2016–2021)
 
 ## 🌐 Connect With Me
 
-🔗 **Portfolio:** [https://hasanul-banna.github.io/Portfolio](https://hasanulbanna.vercel.app)
+🔗 **Portfolio:** [Portfolio](https://hasanulbanna.vercel.app)
 💼 **LinkedIn:** [https://linkedin.com/in/muhammad-hasanul-banna-a935421b2](https://linkedin.com/in/muhammad-hasanul-banna-a935421b2)
 🐙 **GitHub:** [https://github.com/Hasanul-Banna](https://github.com/Hasanul-Banna)
 📧 **Email:** [hasanulbanna006@gmail.com](mailto:hasanulbanna006@gmail.com)
